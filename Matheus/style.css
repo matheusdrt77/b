@@ -1,0 +1,35 @@
+# {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+.imglogoheader {
+width: 75px;
+
+}
+.header,
+.navigation_header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header {
+background-color: black;]
+height: 3.5em;
+padding: 0 10%;
+}
+.navigation_header { 
+    gap: 3em;
+    padding-left:325px ;
+}
+.navigation_header a {
+    text-decoration: none;
+    color: aliceblue;
+    transition: 1s;
+ }
+ .posheader img {
+    width: 1270px;
+ }
